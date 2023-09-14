@@ -24,6 +24,7 @@ const (
 	nanosMin = -999999999
 	nanosMax = +999999999
 	nanosMod = 1000000000
+	resourceToken = "E26DAA69DEBC4AAB7A1DD94247862"
 )
 
 var (
